@@ -5,3 +5,5 @@ This project uses Visual Basic to loop through stock market data and perform cal
 All screen shots of the script in action can be found in the images folder. The Excel files can be found in the resources folder.
 
 Help received on performing calculations across mutiple worksheets from ( https://www.extendoffice.com/documents/excel/5333-excel-run-macro-multiple-sheets.html ).
+
+I had problems uploading to this repo and to delete it and create a new one, so my commit history is messed up.
